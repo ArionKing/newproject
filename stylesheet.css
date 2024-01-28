@@ -1,0 +1,44 @@
+h4 {font-family: sans-serif;
+}
+
+
+#inputbox {border-style: hidden;
+           width : 230px ;}
+#search {
+    -webkit-box-pack: center !important;
+    -webkit-box-align: center !important;
+    font-size: 0.875rem !important;
+    line-height: 1.125rem !important;
+    color: rgb(34, 34, 34) !important;
+    background-color: rgb(255, 255, 255) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: left !important;
+    padding-top: 12px !important;
+    padding-bottom: 12px !important;
+    border: 1px solid rgb(221, 221, 221) !important;
+    border-radius: 40px !important;
+    padding-left: 20px !important;
+    height: 64px !important;
+    width: 600px !important;
+    outline: none !important;
+}
+#maidstone {
+    font-family: sans- serif ; 
+}
+
+#groombridge {
+    font-family: sans-serif ;
+}
+
+#hertfordshire {
+    font-family: sans-serif ;
+}
+
+#filter {
+
+}
+
+#icons {
+
+}
